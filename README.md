@@ -33,6 +33,6 @@ What maccy does for you :
 5) Finally it changes the MAC.
 6) Well coomented code
 
-Soon i'll add some more features, a bit of refactoring too, let me know if you enjoy it
+Soon i'll add some more features, a bit of refactoring too, let me know if you enjoy it I don't think is bad for 6 hrs of work :P...
 
   PEACE N0PN0PN0P
