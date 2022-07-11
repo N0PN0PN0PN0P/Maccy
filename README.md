@@ -16,7 +16,7 @@ OP MAC address changer by N0PN0PN0P
 
 Mail: N0PN0PN0P@proton.me
 
-Github : https://github.com/N0PN0PN0PN0P/maccy
+Github : https://github.com/N0PN0PN0PN0P/Maccy
 
 Favourite quote : 'I don't like PARSERS'
 
