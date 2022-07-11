@@ -31,7 +31,8 @@ What maccy does for you :
 3) It prompts you with all the available net interfaces in your system so you can choose which one you want to change the MAC.
 4) After you can choose to generate a REAL MAC address using the database or input one by yourself
 5) Finally it changes the MAC.
+6) Well coomented code
 
-Soon i'll add some more features, let me know if you enjoy it
+Soon i'll add some more features, a bit of refactoring too, let me know if you enjoy it
 
-PEACE N0PN0PN0P
+  PEACE N0PN0PN0P
