@@ -18,6 +18,8 @@ Mail: N0PN0PN0P@proton.me
 
 Github : https://github.com/N0PN0PN0PN0P/Maccy
 
+twitter : https://twitter.com/N0PN0PN0PN0PN0P
+
 Favourite quote : 'I don't like PARSERS'
 
 With my api key you can do only 100 free queries per day,
